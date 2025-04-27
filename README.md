@@ -1,6 +1,6 @@
 # MIS-382N-Final-Project
 
-The final project for MIS 382N. Includes code base as a colab notebook.
+The final project for MIS 382N. Includes main code base as a Google Colab notebook.
 
 Authors: Ashley Huang, Jack Lanius, Raymundo Lopez, Fnu Sheetal, Yanti Tin-U
 
